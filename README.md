@@ -1,15 +1,18 @@
-## Olá!
+## Seja bem vindo(a) ao meu perfil!
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Engenharia de Software, PUC-MG
+- 📆 18 anos
+- 💻 Estudando majoritariamente C e JS
+- 🌎 Belo Horizonte/MG
+
+###
+
+- 🔭 Software Engineering, PUC-MG
+- 📆 18 y/o
+- 💻 Mostly studying C and JS
+- 🌎 Belo Horizonte/MG - Brazil
+
+###
 
 <div align="center">
   <a href="https://github.com/brunopdt">
