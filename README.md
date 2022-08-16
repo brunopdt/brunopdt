@@ -1,15 +1,15 @@
 ## Seja bem vindo(a) ao meu perfil!
 
-- 🔭 Engenharia de Software, PUC-MG
+- 🔭 Estudante de Engenharia de Software
 - 📆 18 anos
-- 💻 Estudando majoritariamente C e JS
+- 💻 Estudando majoritariamente Java e JS
 - 🌎 Belo Horizonte/MG
 
 ###
 
-- 🔭 Software Engineering, PUC-MG
+- 🔭 Software Engineering student
 - 📆 18 y/o
-- 💻 Mostly studying C and JS
+- 💻 Mostly studying Java and JS
 - 🌎 Belo Horizonte/MG - Brazil
 
 ###
