@@ -1,23 +1,23 @@
 ## Seja bem vindo(a) ao meu perfil!
 
 - 🔭 Estudante de Engenharia de Software
-- 📆 18 anos
-- 💻 Estudando majoritariamente Java e JS
+- 📆 19 anos
+- 💻 Estudando majoritariamente Java, React e testes unitários
 - 🌎 Belo Horizonte/MG
 
 ###
 
 - 🔭 Software Engineering student
-- 📆 18 y/o
-- 💻 Mostly studying Java and JS
+- 📆 19 y/o
+- 💻 Mostly studying Java, React and unit testing
 - 🌎 Belo Horizonte/MG - Brazil
 
 ###
 
 <div align="center">
   <a href="https://github.com/brunopdt">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=brunopdt&theme=gruvbox_light"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunopdt&layout=compact&langs_count=7&theme=gruvbox_light"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=brunopdt&theme=dracula"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunopdt&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##  
@@ -26,9 +26,13 @@
   <img align="center" alt="CSS" height="33" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="33" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="BOOTSTRAP" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="C" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="JAVA" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  
+     <img align="center" alt="JUNIT" height="33" width="44" src="https://raw.githubusercontent.com/devicons/devicon/aedb5918327a65e9a13847af8496da592fa1e159/icons/junit/junit-original-wordmark.svg" />
+  <img align="center" alt="REACT" height="33" width="44" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" />
+  <img align="center" alt="SQL" height="33" width="44" 
+       src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="REDHAT" height="33" width="44" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redhat/redhat-original.svg" />
+ 
     
 ###
 
