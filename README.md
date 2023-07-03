@@ -31,7 +31,6 @@
   <img align="center" alt="REACT" height="33" width="44" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" />
   <img align="center" alt="SQL" height="33" width="44" 
        src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="REDHAT" height="33" width="44" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redhat/redhat-original.svg" />
  
     
 ###
