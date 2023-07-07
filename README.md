@@ -1,16 +1,20 @@
 ## Seja bem vindo(a) ao meu perfil!
 
 - 🌎 Belo Horizonte/MG - 🇧🇷
-  
+<br />
+
 - 💻 Desenvolvedor fullstack estagiário
 - 🔭 Estudante de Engenharia de Software
 - 📰 Estudando Laravel, Vue, DevOps, AWS, Microservices e Java.
 
+
 ###
+
 
 - 💻 Intern fullstack developer
 - 🔭 Software Engineering student
 - 📰 Studying Laravel, Vue, DevOps, AWS, Microservices and Java.
+
 
 ###
 
