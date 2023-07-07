@@ -1,16 +1,16 @@
 ## Seja bem vindo(a) ao meu perfil!
 
+- 🌎 Belo Horizonte/MG - 🇧🇷
+  
+- 💻 Desenvolvedor fullstack estagiário
 - 🔭 Estudante de Engenharia de Software
-- 📆 19 anos
-- 💻 Estudando majoritariamente Java, React e testes unitários
-- 🌎 Belo Horizonte/MG
+- 📰 Estudando Laravel, Vue, DevOps, AWS, Microservices e Java.
 
 ###
 
+- 💻 Intern fullstack developer
 - 🔭 Software Engineering student
-- 📆 19 y/o
-- 💻 Mostly studying Java, React and unit testing
-- 🌎 Belo Horizonte/MG - Brazil
+- 📰 Studying Laravel, Vue, DevOps, AWS, Microservices and Java.
 
 ###
 
