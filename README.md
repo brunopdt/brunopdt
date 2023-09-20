@@ -5,7 +5,7 @@
 
 - 💻 Desenvolvedor fullstack estagiário
 - 🔭 Estudante de Engenharia de Software
-- 📰 Estudando NestJS, AWS, Microservices e Java.
+- 📰 Atualmente trabalhando com NestJS, React TS e Java
 
 
 ###
@@ -13,7 +13,7 @@
 
 - 💻 Intern fullstack developer
 - 🔭 Software Engineering student
-- 📰 Studying NestJS, AWS, Microservices and Java.
+- 📰 Currently working with NestJS, React TS and JAva
 
 
 ###
