@@ -1,33 +1,30 @@
-## Seja bem vindo(a) ao meu perfil!
-
-- 🌎 Belo Horizonte/MG - 🇧🇷
-
+## Welcome to my profile!
 
 <br />
 
-
-- 💻 Desenvolvedor fullstack estagiário
-- 🔭 Estudante de Engenharia de Software
-- 📰 Atualmente trabalhando com NestJS, React TS e Java
-
+```js
+export const Bruno = {
+  age: 20,
+  location: 'Brazil',
+  occupation: 'Fullstack Software Development Intern',
+  stack: [ "Typescript", "NestJS", "Java", "AWS Cloud Services" ],
+  education: {
+      area: 'Software Engineering',
+      degree: 'BS',
+      institution: 'PUC Minas',
+      status: 'Enrolled',
+  },
+  hobbies: [ "reading", "playing games", "learning music" ]
+};
+```
 
 ###
 
-
-- 💻 Intern fullstack developer
-- 🔭 Software Engineering student
-- 📰 Currently working with NestJS, React TS and JAva
-
-
-###
-
-<div align="center">
-  <a href="https://github.com/brunopdt">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=brunopdt&theme=dracula&show_icons=true"/>
-  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunopdt&layout=compact&langs_count=7&theme=dracula"/>
+<div>
+  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api?username=brunopdt&theme=aura_dark&show_icons=true"/>
+  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunopdt&layout=compact&langs_count=7&theme=aura_dark"/>
 </div>
 
-## 
   <div style="display: inline_block"><br>
   <img align="center" alt="NEST" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
   <img align="center" alt="REACT" height="33" width="44" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" />
@@ -39,7 +36,6 @@
   <img align="center" alt="GIT" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="SQL" height="33" width="44"
        src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" />
-          
     
 ###
   <a href = "mailto:bruno.pduarte0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -47,7 +43,10 @@
   <a href = "https://api.whatsapp.com/send?phone=5531991470591&text=ol%C3%A1%2C%20vim%20pelo%20seu%20perfil%20do%20GitHub!%20"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://discordapp.com/users/363004143813525506/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 ##
-  
+
+## Profile View Count
+![Profile View Counter](https://profile-counter.glitch.me/brunopdt/count.svg)
+
   
 
   <!--![Snake animation](https://github.com/brunopdt/brunopdt/blob/output/github-contribution-grid-snake.svg)-->
