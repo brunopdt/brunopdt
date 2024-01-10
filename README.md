@@ -38,12 +38,16 @@ export const Bruno = {
   <a href = "https://api.whatsapp.com/send?phone=5531991470591&text=ol%C3%A1%2C%20vim%20pelo%20seu%20perfil%20do%20GitHub!%20"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://discordapp.com/users/363004143813525506/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
+
+## **Recent projects:**
+
+<a href="https://github.com/brunopdt/estrelinha-nestjs-react"><img src="https://github-readme-stats.vercel.app/api/pin/?username=brunopdt&repo=estrelinha-nestjs-react&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://github.com/brunopdt/examemais-react-csharp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=brunopdt&repo=examemais-react-csharp&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://github.com/brunopdt/optimization-algorithms-csharp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=brunopdt&repo=optimization-algorithms-csharp&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+
+
 ## Profile View Count
 ![Profile View Counter](https://profile-counter.glitch.me/brunopdt/count.svg)
-
-  
-
-  <!--![Snake animation](https://github.com/brunopdt/brunopdt/blob/output/github-contribution-grid-snake.svg)-->
  
 
 </div>
