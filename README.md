@@ -40,8 +40,10 @@ export const Bruno = {
 
 
 ## **Currently working on:**
-<a href="https://github.com/brunopdt/examemais-react-csharp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=brunopdt&repo=examemais-react-csharp&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="120"/></a>
-<a href="https://github.com/brunopdt/notes-app-django"><img src="https://github-readme-stats.vercel.app/api/pin/?username=brunopdt&repo=notes-app-django&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="120"/></a>
+
+<a href="https://github.com/brunopdt/examemais-react-csharp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=brunopdt&repo=examemais-react-csharp&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="110"/></a>
+<a href="https://github.com/brunopdt/notes-app-django"><img src="https://github-readme-stats.vercel.app/api/pin/?username=brunopdt&repo=notes-app-django&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="110"/></a>
+
 
 ## **Recent projects:**
 
