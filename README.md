@@ -5,8 +5,8 @@
 ```js
 export const Bruno = {
   age: 20,
-  location: 'Brazil',
-  occupation: 'Fullstack Software Development Intern',
+  location: 'Belo Horizonte - Minas Gerais, Brazil',
+  occupation: 'Fullstack software development intern',
   stack: [ "Typescript", "NestJS", "Java", "AWS Cloud Services" ],
   education: {
       area: 'Software Engineering',
