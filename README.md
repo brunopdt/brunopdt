@@ -4,10 +4,10 @@
 
 ```js
 export const Bruno = {
-  age: 20,
+  age: 21,
   location: 'Belo Horizonte - Minas Gerais, Brazil',
-  occupation: 'Fullstack software development intern',
-  stack: [ "Typescript", "NestJS", "React", "AWS Cloud Services" ],
+  occupation: 'Back-end software development intern',
+  stack: [ "Java", "Typescript", "NestJS", "React", "AWS Cloud Services" ],
   education: {
       area: 'Software Engineering',
       degree: 'BS',
