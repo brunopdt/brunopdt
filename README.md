@@ -14,7 +14,7 @@ export const Bruno = {
       institution: 'PUC Minas',
       status: 'Enrolled',
   },
-  hobbies: [ "traveling", "playing games", "playing the guitar" ]
+  hobbies: [ "going to live concerts", "playing games", "playing the guitar" ]
 };
 ```
 
