@@ -4,7 +4,7 @@
 
 ```js
 export const Bruno = {
-  age: 21,
+  age: 22,
   location: 'Belo Horizonte - Minas Gerais, Brazil',
   occupation: 'Software Engineer II @ QuintoAndar',
   stack: [ "Java", "Typescript", "React", "AWS Cloud Services" ],
