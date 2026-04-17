@@ -11,10 +11,9 @@ export const Bruno = {
   education: {
       area: 'Software Engineering',
       degree: 'BS',
-      institution: 'PUC Minas',
-      status: 'Enrolled',
+      institution: 'PUC Minas'
   },
-  hobbies: [ "going to live concerts", "playing games", "playing the guitar" ]
+  hobbies: [ "travelling", "playing games", "playing the guitar" ]
 };
 ```
 
@@ -28,7 +27,7 @@ export const Bruno = {
 <br />
 <br />
 
-![My Skills](https://skillicons.dev/icons?i=ts,nest,nodejs,aws,react,materialui,jest,java,postman,mysql,prisma,linux&perline=12)
+![My Skills](https://skillicons.dev/icons?i=ts,react,java,aws,nest,nodejs,materialui,jest,mysql,postgres&perline=12)
 
 <br />
     
@@ -50,9 +49,3 @@ export const Bruno = {
 <a href="https://github.com/brunopdt/estrelinha-nestjs-react"><img src="https://github-readme-stats.vercel.app/api/pin/?username=brunopdt&repo=estrelinha-nestjs-react&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="120"/></a>
 <a href="https://github.com/brunopdt/optimization-algorithms-csharp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=brunopdt&repo=optimization-algorithms-csharp&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="120"/></a>
 -->
-
-## Profile View Count
-![Profile View Counter](https://profile-counter.glitch.me/brunopdt/count.svg)
- 
-
-</div>
